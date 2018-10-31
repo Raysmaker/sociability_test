@@ -18,4 +18,4 @@ ruby main.rb
 <br/>
 
 #### Об авторе:
-Alexey V.Ryapisov <a href="https://raysmaker.github.io/person">Raysmaker</a>
+Alexey V.Ryapisov: <a href="https://raysmaker.github.io/cv/">Raysmaker</a>
